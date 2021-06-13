@@ -1,0 +1,20 @@
+.habit {
+  .stats-container {
+    width: 80px;
+    margin-bottom: 20px;
+
+    &__habit-name {
+      width: 100px;
+    }
+    &__progress-circle {
+
+    }
+  }
+  .day-label {
+    p {
+      font-size: 10px;
+      margin-bottom: 0;
+    }
+  }
+
+}
